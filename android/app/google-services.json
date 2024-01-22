@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250348373756",
+    "project_id": "qrcode-flutter-bd2af",
+    "storage_bucket": "qrcode-flutter-bd2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250348373756:android:f38b8c635639d351417979",
+        "android_client_info": {
+          "package_name": "com.example.qrcode_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5F0ZvTMGPbG9Hucxcf2DqkG70-Id3y9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
